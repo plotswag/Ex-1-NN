@@ -124,37 +124,40 @@ print("\nLenght of X_test ",len(X_test))
 
 ## OUTPUT:
 Data:
-![alt text](image.png)
+![image](https://github.com/user-attachments/assets/d12e30e8-2ec6-4f3e-8071-71e0f29e59f5)
 
 Data checking:
-![alt text](image-1.png)
+![image](https://github.com/user-attachments/assets/13eeaaa3-9779-4c75-8e2f-84639a200d5f)
 
 Missing Data:
-![alt text](image-2.png)
+![image](https://github.com/user-attachments/assets/da80fe0e-90ac-42d2-aa35-03a018e163ab)
+
 
 Duplicates identification:
-![alt text](image-3.png)
+![image](https://github.com/user-attachments/assets/f6cef794-19c2-43d8-ba72-176c279b928f)
+
 
 Vakues of 'X':
-![alt text](image-4.png)
+![image](https://github.com/user-attachments/assets/7f37ec4b-28a4-447b-84df-07013fa5442b)
 
 Values of 'Y':
-![alt text](image-5.png)
+![image](https://github.com/user-attachments/assets/27f4da99-bfb9-4039-b391-e93687fdd43a)
+
 
 Outliers:
-![alt text](image-6.png)
+![image](https://github.com/user-attachments/assets/9465b38f-ac3e-4062-a46a-92e51666e820)
 
 Checking datasets after dropping string values data from dataset:
-![alt text](image-7.png)
+![image](https://github.com/user-attachments/assets/f3554cb3-45cb-4b44-b821-80226a3d242a)
 
 Normalize the dataset:
-![alt text](image-8.png)
+![image](https://github.com/user-attachments/assets/29e52780-79e9-4b17-9785-1402a8051f02)
 
 Split the dataset:
-![alt text](image-9.png)
+![image](https://github.com/user-attachments/assets/871d3095-f1a0-4766-9e00-9324c3aee7e9)
 
 Training and testing model:
-![alt text](image-10.png)
+![image](https://github.com/user-attachments/assets/747a9df9-e032-4c04-a650-310491c8b733)
 
 
 ## RESULT:
